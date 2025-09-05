@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["8A2SSQZ8R4.com.example.dwaoFlutterDemo"],
+        "paths": ["*"],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["8A2SSQZ8R4.com.example.dwaoFlutterDemo"]
+  }
+}
