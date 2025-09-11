@@ -3,8 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["8A2SSQZ8R4.com.example.dwaoFlutterDemo"],
-        "paths": ["*"],
+        "appIDs": [
+          "8A2SSQZ8R4.com.example.dwaoFlutterDemo",
+          "WHGYYA5D43.com.shriram.one.test"
+        ],
+        "paths": [
+          "*"
+        ],
         "components": [
           {
             "/": "/*"
@@ -14,6 +19,9 @@
     ]
   },
   "webcredentials": {
-    "apps": ["8A2SSQZ8R4.com.example.dwaoFlutterDemo"]
+    "apps": [
+      "8A2SSQZ8R4.com.example.dwaoFlutterDemo",
+      "WHGYYA5D43.com.shriram.one.test"
+    ]
   }
 }
