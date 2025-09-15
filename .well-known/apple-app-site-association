@@ -4,6 +4,19 @@
     "details": [
       {
         "appIDs": [
+          "8A2SSQZ8R4.com.dwao.EcomStore"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
           "8A2SSQZ8R4.com.example.dwaoFlutterDemo"
         ],
         "paths": [
@@ -21,6 +34,11 @@
         ],
         "paths": [
           "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       },
       {
@@ -29,6 +47,11 @@
         ],
         "paths": [
           "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       }
     ]
