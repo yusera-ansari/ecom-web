@@ -14,45 +14,6 @@
             "/": "/*"
           }
         ]
-      },
-      {
-        "appIDs": [
-          "8A2SSQZ8R4.com.example.dwaoFlutterDemo"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "8A2SSQZ8R4.com.dwao.EcomStore"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "8A2SSQZ8R4.com.shriram.one.test"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
       }
     ]
   },
