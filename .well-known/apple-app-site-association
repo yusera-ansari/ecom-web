@@ -4,7 +4,8 @@
     "details": [
       {
         "appIDs": [
-          "8A2SSQZ8R4.com.dwao.EcomStore"
+          "8A2SSQZ8R4.com.dwao.EcomStore",
+          "8A2SSQZ8R4.com.example.dwaoFlutterDemo"
         ],
         "paths": [
           "*"
@@ -13,6 +14,22 @@
           {
             "/": "/*"
           }
+        ]
+      },
+      {
+        "appIDs": [
+          "8A2SSQZ8R4.com.dwao.EcomStore"
+        ],
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appIDs": [
+          "8A2SSQZ8R4.com.shriram.one.test"
+        ],
+        "paths": [
+          "*"
         ]
       }
     ]
